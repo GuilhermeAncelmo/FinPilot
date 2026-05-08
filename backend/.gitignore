@@ -3,3 +3,10 @@ node_modules
 .env
 
 /generated/prisma
+
+# Database and local data
+*.db
+*.db-journal
+*.sqlite
+*.sqlite-journal
+*.local
